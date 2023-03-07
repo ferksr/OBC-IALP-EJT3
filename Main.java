@@ -7,8 +7,6 @@ public class Main {
     /* Crear coche y agregar puertas */
     Coche miCoche = new Coche();
     miCoche.AgregarPuerta();
-    miCoche.AgregarPuerta();
-    miCoche.AgregarPuerta();
   }
 
   /* Función suma */
